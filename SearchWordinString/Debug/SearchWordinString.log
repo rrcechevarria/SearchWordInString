@@ -1,0 +1,4 @@
+﻿  SearchWordinString.cpp
+c:\users\icoy\documents\practice code\searchwordinstring\searchwordinstring\searchwordinstring.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  SearchWordinString.vcxproj -> C:\Users\Icoy\Documents\Practice Code\SearchWordinString\Debug\SearchWordinString.exe
+  SearchWordinString.vcxproj -> C:\Users\Icoy\Documents\Practice Code\SearchWordinString\Debug\SearchWordinString.pdb (Full PDB)
